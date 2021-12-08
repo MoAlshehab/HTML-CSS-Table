@@ -1,0 +1,32 @@
+form{
+  margin-left:15%;
+  margin-top: 20px;
+  border: 1px;
+}
+input{
+    margin:30px;
+
+
+ 
+}
+label{
+    font-size: 25px;
+}
+body{ 
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 8px solid;
+    background-color: antiquewhite; }
+
+    html{
+        background-color: rgb(71, 59, 59);
+    }
+   
+   
+   
+   
+
+
+
+
