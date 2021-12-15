@@ -1,14 +1,16 @@
-
-ul {
+a{text-decoration: none;}
+.head {
     height: 50px;
     width: 100%;
-    background-color: grey;
+    background-color: rgb(68, 7, 7);
     margin-top: 1%;
+
   }
   
   li a {
     padding: 20px 50px;
-    color:indigo;
+    color:rgb(1, 225, 233);
+    float:none;
   
   }
   li a:hover {
@@ -21,4 +23,21 @@ ul {
     color: white;}
     li {
         display: inline;
-        font-size: larger;}
+        font-size: larger;
+    
+        }
+    html{
+        background-image: url(./background1.png);
+    }
+    #logo{
+        margin-top: 20px ;
+       
+       
+    }
+     footer {
+     text-align: center;
+     padding: 20px;
+     background-color: rgb(40, 8, 248);
+     color: rgb(8, 6, 6);
+    margin-top: 100%;}
+     
