@@ -27,17 +27,29 @@ a{text-decoration: none;}
     
         }
     html{
-        background-image: url(./background1.png);
-    }
-    #logo{
-        margin-top: 20px ;
-       
-       
-    }
+        background-image: url(./background1.png); }
+        #logo{      }
      footer {
      text-align: center;
-     padding: 20px;
-     background-color:darkolivegreen;
+     padding:5px;
+     background-color: cornsilk;
      color: rgb(8, 6, 6);
-    margin-top: 100%;}
-     
+    margin-top: 20%;}
+     .iphone{
+       width: 50%;
+       margin-left: 500px;
+    
+   
+     }
+    body .text1{
+       float: right;
+ color: rgb(126, 23, 5);
+ border: 8px solid black;
+     }
+     #about{
+       float: right;
+       margin-right: 40px;
+    
+    
+       
+     }
