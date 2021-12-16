@@ -1,19 +1,16 @@
 form{
-  margin-left:15%;
-  margin-top: 20px;
-  border: 1px;
+margin-left:15%;
 }
 body{ 
-    width: 50%;
-    margin-left: 20%;
-    margin-right: 20%;
-    border: 8px solid;
-    background-color: antiquewhite;
- }
-
-    html{
-        background-color: rgb(48, 41, 41);} 
+width: 50%;
+margin-left: 20%;
+margin-right: 20%;
+border: 8px solid;
+background-color: antiquewhite;
+}
+html{
+ background-color: rgb(48, 8, 8);} 
 .tex{
-    color:maroon;
-    font-size: 25px;
+color:maroon;
+font-size: 25px;
 }
