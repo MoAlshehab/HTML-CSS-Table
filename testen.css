@@ -1,0 +1,10 @@
+
+.contentText{
+  float:left;
+  background-color:red;
+  padding:10px;
+}
+.contentImage{
+  margin-left:20px;
+  margin-right:20px;
+  float:left;} 

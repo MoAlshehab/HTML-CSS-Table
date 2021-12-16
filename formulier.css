@@ -2,21 +2,12 @@ form{
   margin-left:15%;
   margin-top: 20px;
   border: 1px;
+  text-align:1000px;
 }
-
-#fna{
-    text-align: center;
-}
-input{
-    margin:30px;
-clear:both;
-
- 
-}
-label{
+.tex{
     font-size: 25px;
    justify-content: space-between;
-
+   margin: 80px;
 }
 body{ 
     width: 50%;
@@ -29,10 +20,14 @@ body{
         background-color: rgb(48, 41, 41);
     
     }
-   
-   
-   
-   
+    .inv{ 
+        margin:30px;
+        width: 200px;
+        margin-top: 20px;
+        margin-left: 250px;
+        float: right;
+        
+    }
 
 
 

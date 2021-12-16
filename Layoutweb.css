@@ -28,28 +28,38 @@ a{text-decoration: none;}
         }
     html{
         background-image: url(./background1.png); }
-        #logo{      }
+        #logo{  
+         
+            }
      footer {
      text-align: center;
      padding:5px;
-     background-color: cornsilk;
+  background: linear-gradient(to right, red, orange, yellow , green ,blue, indigo, violet);
      color: rgb(8, 6, 6);
     margin-top: 20%;}
      .iphone{
        width: 50%;
        margin-left: 500px;
-    
-   
+
      }
-    body .text1{
-       float: right;
- color: rgb(126, 23, 5);
- border: 8px solid black;
-     }
-     #about{
-       float: right;
-       margin-right: 40px;
-    
-    
-       
-     }
+     #about{color:darkkhaki;
+    float: right;
+    margin-right: 50px;
+      
+    }
+
+     .text1{
+        float:left;
+        background-color:rgb(241, 235, 235);
+        padding:10px;
+        margin-top:-5px;
+        margin-left: 39px;
+        position: absolute;
+      }
+     .iphone1{
+      float:right;
+       width: 750px;
+        margin-right: 200px;
+        clear: both;
+      
+      }
