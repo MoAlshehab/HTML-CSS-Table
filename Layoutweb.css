@@ -8,9 +8,7 @@ background-color: rgb(68, 7, 7);
  li a {
 padding: 20px 50px;
 color:rgb(1, 225, 233);
-float:none;
-
-  }
+float:none}
   li a:hover {
  background-color: rgb(10, 1, 7);
  color: white;
@@ -25,19 +23,23 @@ font-size: larger;
 }
 html{
  background-image: url(./background1.png); }
- #logo{  
-
- }
- footer {
- text-align: center;
- padding:3px;
-  background: linear-gradient(to right, red, orange, yellow , green ,blue, indigo, violet);
+#logo{  
+}
+footer {
+text-align: center;
+padding:3px;
+ background: linear-gradient(to right, red, orange, yellow , green ,blue, indigo, violet);
  color: rgb(8, 6, 6);
 margin-top: 20%;}
  #about{color:darkkhaki;
 float: right;
 margin-right: 50px;
   
+}
+.kiezen{float: right;
+ margin-right: -64px;
+ margin-top: 40px;
+
 }
 
 .text1{
